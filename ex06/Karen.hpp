@@ -5,8 +5,8 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: isfernan <isfernan@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/08/03 19:33:22 by isfernan          #+#    #+#             */
-/*   Updated: 2021/08/04 18:07:40 by isfernan         ###   ########.fr       */
+/*   Created: 2021/08/04 18:14:10 by isfernan          #+#    #+#             */
+/*   Updated: 2021/08/04 18:49:33 by isfernan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,7 @@
 # include <map>
 # include <string>
 # include <iostream>
+# include <string>
 
 class Karen
 {

@@ -5,8 +5,8 @@
 #                                                     +:+ +:+         +:+      #
 #    By: isfernan <isfernan@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2021/08/03 19:15:46 by isfernan          #+#    #+#              #
-#    Updated: 2021/08/04 18:01:07 by isfernan         ###   ########.fr        #
+#    Created: 2021/08/04 18:13:41 by isfernan          #+#    #+#              #
+#    Updated: 2021/08/04 18:18:49 by isfernan         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -16,7 +16,7 @@ OBJS 	= $(SRCS:.cpp=.o)
 
 FLAGS	= -Wall -Werror -Wextra
 
-NAME	= Karen
+NAME	= karenFilter
 
 all:		$(NAME)
 

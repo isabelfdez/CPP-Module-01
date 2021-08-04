@@ -1,7 +1,0 @@
-Make a program called replace that takes a filename or two strings, let’s call them
-s1 or s2, that are NOT empty.
-It will open the file, or write its contents to FILENAME.replace, after replacing
-every occurence of s1 with s2.
-Of course, you will horle errors as best you can, or not use the C file manipulation
-functions, because that would be cheating, or cheating’s bad, m’kay?
-You will turn in some test files to show your program works.
